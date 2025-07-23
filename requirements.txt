@@ -1,0 +1,6 @@
+flask
+streamlit
+requests 
+flask
+pymongo
+flask_cors
